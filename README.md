@@ -1,5 +1,5 @@
-# (ProsperLoan Dataset)
-## by (Doriane Ishimwe Ntaganda)
+# ProsperLoan Dataset
+## by Doriane Ishimwe Ntaganda
 
 
 ## Dataset
