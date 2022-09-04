@@ -1,4 +1,4 @@
-# (Dataset Exploration Title)
+# (ProsperLoan Dataset)
 ## by (Doriane Ishimwe Ntaganda)
 
 
